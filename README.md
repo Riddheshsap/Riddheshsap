@@ -5,11 +5,6 @@
 - 📫  reach me ...on my fiverr profile
 - 😄 Pronouns: ... riddhesh 
 - ⚡ Fun fact: ... beautiful 
-
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
     }
   </style>
 </head>
@@ -21,5 +16,3 @@
 </body>
 </html>
 ```
-
-Feel free to customize the HTML further according to your preferences!
